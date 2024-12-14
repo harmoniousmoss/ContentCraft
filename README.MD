@@ -28,6 +28,7 @@ A proof-of-concept backend application leveraging the **Fiber** web framework (G
 
 ## Project roadmap
 - [x] Admin seeder endpoint to populate the database with sample data.
+- [x] Middleware for user authentication.
 - [x] User registration and authentication.
 - [x] Category creation and management.
 - [ ] Article creation and management.
