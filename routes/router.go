@@ -35,4 +35,7 @@ func SetupRoutes(app *fiber.App) { // SetupRoutes: function to set up all routes
 	app.Post("/article-category", middleware.RequireRole([]string{"administrator"}, "approved"), handlers.CreateArticleCategory)
 	app.Get("/article-category", middleware.RequireRole([]string{"administrator"}, "approved"), handlers.GetAllArticleCategory)
 
+	// Article content
+	app.Post("/article-content", middleware.RequireRole([]string{"administrator"}, "approved"), handlers.CreateArticleContent)
+
 }
