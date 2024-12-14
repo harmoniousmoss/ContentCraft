@@ -31,6 +31,6 @@ A proof-of-concept backend application leveraging the **Fiber** web framework (G
 - [x] Middleware for user authentication.
 - [x] User registration and authentication.
 - [x] Category creation and management.
-- [ ] Article creation and management.
-- [ ] Text-to-image generation for articles using OpenAI.
-- [ ] Category recommendations based on existing categories.
+- [x] Article creation and management.
+- [x] Text-to-image generation for articles using OpenAI.
+- [x] Category recommendations based on existing categories.
