@@ -1,6 +1,6 @@
-# ContentCraft
+# Marno - AI-Powered Content Management Platform
 
-A proof-of-concept backend application leveraging the **Fiber** web framework (Go), **MongoDB**, and **OpenAI API** to enhance content creation workflows. This project is designed to:
+Marno is a comprehensive content management backend built with Go, Fiber framework, MongoDB, and OpenAI API integration. Features intelligent article categorization, automated image generation from text content, user authentication with JWT, and role-based access control. Includes automated category recommendations using AI analysis, secure user management system, and RESTful API design.
 
 1. **Generate Image-Based Articles**: Dynamically create image-rich articles based on textual content stored in the database.
 2. **Recommend Article Categories**: Provide intelligent category recommendations based on existing article categories in the database.
