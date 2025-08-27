@@ -1,4 +1,4 @@
-# Marno - AI-Powered Content Management Platform
+## Marno - AI-Powered Content Management Platform
 
 Marno is a comprehensive content management backend built with Go, Fiber framework, MongoDB, and OpenAI API integration. Features intelligent article categorization, automated image generation from text content, user authentication with JWT, and role-based access control. Includes automated category recommendations using AI analysis, secure user management system, and RESTful API design.
 
